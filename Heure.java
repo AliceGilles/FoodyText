@@ -14,6 +14,15 @@ public class Heure {
 	
 	public int getMinutes() {
 		return minutes;
-}
+	}
+	
+	public int getMinutes() {
+		return minutes;
+	}
+	
+	public void setMinutes(int minutes) {
+		this.minutes = minutes;
+	}
+
 	
 }
